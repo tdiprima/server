@@ -1,6 +1,8 @@
 /**
  * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+ * Run from browser:
  */
+
 fetch('/graphql', {
     method: 'POST',
     headers: {
